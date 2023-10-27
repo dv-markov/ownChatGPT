@@ -19,7 +19,7 @@ _providers = [
     g4f.Provider.GptGo,
     g4f.Provider.Llama2,
     g4f.Provider.NoowAi,
-    g4f.Provider.OpenaiChat,
+    # g4f.Provider.OpenaiChat,
     g4f.Provider.You,
 ]
 
